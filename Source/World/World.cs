@@ -106,10 +106,7 @@ internal class World : IDisposable {
             && GetChunk(chunkPos) != null;
     }
 
-    Mutex mutex;
-
     public void Update() {
-        mutex.
         if (LoadList.Count != 0) {
             var pos = LoadList.First();
             LoadList.Remove(pos);

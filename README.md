@@ -10,3 +10,8 @@ The game has the basic features of a Minecraft voxel-engine:
 - Breaking/placing blocks
 
 ![image](https://user-images.githubusercontent.com/112990531/190867592-4aa079c6-e1c0-40bf-a66c-5d87c03479ac.png)
+
+# How to run the game:
+Only tested with Windows 10 x64
+1. Download and install [.NET SDK](https://dotnet.microsoft.com/en-us/download) if you don't have it.
+2. Just run **dotnet run** from the terminal inside the project folder and the game should run!
